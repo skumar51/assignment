@@ -1,0 +1,29 @@
+
+.formLink{
+list-style: none;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+text-align: center;
+min-height: 10vh;
+}
+.submittedInfo{
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+text-align: center;
+min-height: 10vh;
+}
+.submittedInfo h2{
+    position: absolute;
+    top: 10%;
+    left: 40%;
+    color:currentColor
+}
+.tableList{
+    position: absolute;
+    top: 21%;
+    left: 40%;
+}
